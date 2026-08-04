@@ -57,18 +57,7 @@ I'm continuing to grow in cybersecurity, with an interest in bridging security r
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jagadish-Bangera&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadish-Bangera&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jagadish-Bangera&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center"><i>🔐 Breaking things to understand them. Building things to defend them.</i></p>
 
