@@ -36,8 +36,11 @@ I'm continuing to grow in cybersecurity, with an interest in bridging security r
 ### 💻 Programming & Development Skills
 
 **Languages:** Python, Java, JavaScript, PHP, C++, C#
+
 **Web Development:** HTML, CSS, Node.js, React.js, Express.js
+
 **Databases:** MongoDB, MySQL
+
 **Security Tooling:** PyQt6, Flask, PyInstaller, SQLite, YARA, Scapy
 
 ---
