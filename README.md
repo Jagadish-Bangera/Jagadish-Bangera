@@ -66,3 +66,10 @@ I'm continuing to grow in cybersecurity, with an interest in bridging security r
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagadish%20Bangera-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jagadish-bangera-63a55a359/)
+[![Email](https://img.shields.io/badge/Email-jagadish982298%40gmail.com-red?style=flat&logo=gmail)](mailto:jagadish982298@gmail.com)
